@@ -1,2 +1,1 @@
-# SoliditySampleProjects
-Sample Solidity projects for Learning and Practice
+# Simple Staking Application 
